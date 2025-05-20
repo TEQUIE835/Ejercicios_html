@@ -1,2 +1,2 @@
 # portafolio
-This is a project that is going to be updates in the time im studying html and css
+A project made for practice html in a basic page
